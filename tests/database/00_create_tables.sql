@@ -1,1 +1,4 @@
--- TODO: Adicionar script para criar as tabelas no banco de dados
+-- Criação do banco de dados
+CREATE DATABASE lab_scheduler;
+
+USE lab_scheduler; banco de dados
